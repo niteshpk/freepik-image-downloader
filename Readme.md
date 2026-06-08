@@ -1,4 +1,4 @@
-# Freepik Image Downloader
+# Freepik Image Downloader [Not relevant anymore]
 
 Freepik Image Downloader is a web application that allows users to easily download high-quality images from Freepik. It provides a simple interface to input the image URL, choose the desired image quality, and download the image in various sizes.
 
